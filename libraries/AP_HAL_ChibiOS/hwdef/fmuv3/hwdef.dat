@@ -222,8 +222,8 @@ PA9 VBUS INPUT OPENDRAIN
 # PA10 IO-debug-console
 
 # Now we define the pins that USB is connected on.
-PA11 OTG_FS_DM OTG1
-PA12 OTG_FS_DP OTG1
+#PA11 OTG_FS_DM OTG1
+#PA12 OTG_FS_DP OTG1
 
 # These are the pins for SWD debugging with a STlinkv2 or black-magic probe.
 PA13 JTMS-SWDIO SWD
